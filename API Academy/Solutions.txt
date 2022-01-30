@@ -1,0 +1,61 @@
+REWARD 200 XP
+	To unlock the chest of knowledge for House Turing, you must first define an API.
+	
+
+	Question - Fill in the blank - "API" stands for "Application Programming __________".
+	Answer - Interface
+	
+
+	Question - Look at the code in the JavaScript code editor (click 'Show Code Editor' above). What is the name of the string function that provides an API for converting the     contents of the string to all caps?
+	Code -  const allCapsString = 'yeet!'.toUpperCase();
+	console.log(allCapsString);
+	Answer - toUpperCase
+	
+
+	* I RECOMMEND WATCHING VEDIO OF API introduction course by Craig Dennis*
+REWARD 200 XP
+	To unlock the chest of knowledge for House Lovelace, you must learn some basics about the worldwide web.
+	
+
+	Question - What four letter acronym describes the most common protocol used by web clients (like your browser) and web servers to transfer data on the web, like HTML or images?
+	Answer - HTTP
+	
+
+	Question - Sometimes a client computer needs to send additional information when it requests a web page or other resource from a server (like state that needs to persist across requests, such as "cookies"). What are these extra bits of information called?
+	Answer - HEADER
+	
+
+	* I RECOMMEND WATCHING VEDIO OF API introduction course by Craig Dennis*
+REWARD 200 XP
+	To unlock the chest of knowledge for House Hopper, you must understand that some APIs are remote, executing on another computer.
+	
+
+	Question - The code and computational resources required to fulfill an API call must be physically located on the computer where the API is called from.
+	Answer - False, it can be located remotely.
+	
+
+	
+
+	Question - What four-letter acronym describes a type of remote API that has become a standard way in which remote APIs are exposed to developers?
+	Answer - REST
+	
+
+	
+
+	* I RECOMMEND WATCHING VEDIO OF API introduction course by Craig Dennis*
+REWARD 200 XP
+	To unlock the chest of knowledge for House von Neumann, you must learn about RESTful APIs.
+	
+
+	Question - What is the abstract name for a chunk of data that can be addressed by a URI and potentially transferred using a RESTful API?
+	Answer - Resource
+	
+
+	Question - Which HTTP method/verb is most commonly used to create new data on a server in a RESTful API?
+	Answer - Post
+	
+
+	
+
+	* I RECOMMEND WATCHING VEDIO OF API introduction course by Craig Dennis*
+
